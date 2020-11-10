@@ -1,5 +1,7 @@
 Retrouvez le code ICI : 
 [projet_Climat_FCosialls.ipynb](https://github.com/Fcosialls/FCosialls_Portfolio/blob/main/Projet_1/projet_Climat_FCosialls.ipynb)
+
+
 (Projet réalisé avec Google Colab)
 
 # Introduction
@@ -59,6 +61,8 @@ L'augmentation est d'autant plus impressionnante après les années 1980.
 ### Limites
 
 *   Nous avons calculé la température globale des océans en supposant que le poids de la température des océans et de la température terrestre était identique. C'est un parti pris qu'il faut prendre en compte et qui peut impacter nos observations.
+
+
 ---
 # **PARTIE 2** : Dans quelle mesure l’Homme impacte t il le réchauffement climatique ?
 

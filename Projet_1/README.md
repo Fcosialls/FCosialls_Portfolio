@@ -26,7 +26,7 @@ acteurs d’un drame annoncé réel ou fictif.
 
 Afin de savoir si le réchauffement climatique est un phénomène réel, il nous faut observer l'évolution des températures dans le temps.
 
-Cela nous permettra de constater si les températures ont tendances à augmenter, stagner ou même baisser. 
+Cela nous permettra de constater si les températures ont tendances à augmenter, stagner ou même baisser.
 
 ## Evolution de la température dans le temps.
 

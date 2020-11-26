@@ -14,6 +14,6 @@ Un petit aperçu des visualisations que vous pourrez retrouver :
 
 ## Project : [COVID-19 Dashboard](https://public.tableau.com/profile/cosialls#!/vizhome/covid_project/Tableaudebord1)
 
-Un dashbord de suivi des cas de contamination et de morts liés au COVID-19.
+Un dashbord de suivi des cas de contamination et de mort liés au COVID-19.
 ![](https://raw.githubusercontent.com/Fcosialls/FCosialls_Portfolio/main/Projet_2/tab_SC.png)
 
